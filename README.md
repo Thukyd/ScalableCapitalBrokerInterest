@@ -34,4 +34,4 @@ The threshold amount for 12 months is €71900
 
 ## License
 
-Apache
+Apache-2.0 license
